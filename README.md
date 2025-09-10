@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91516613/226089148-3d41f228-b7af-48a4-8d8c-08c8d9fb5e8d.gif" width="800"/>
 </p>
+![Texto alternativo](![Uploading Banner Para LinkedIn Licenciada En Marketing Minimalista Beige.png…]()
+)
 
 # 👩‍💻 ¡Hola! Soy **Juliana Ángel**  
 
@@ -45,7 +47,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juliana-angel-sossa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:julianasossa422@gmail.com"https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:julianasossa422@gmail.com"><img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
